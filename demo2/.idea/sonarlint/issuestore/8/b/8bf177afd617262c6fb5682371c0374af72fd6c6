@@ -1,0 +1,12 @@
+
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òã¶£8ø›ã‹ş1J$5655402f-4111-4923-8c1a-d5be4e9c4e7a
+u
+java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8ı€–Éş1J$3bd4787a-cfa4-4bc2-a51e-f0087b5b4b4e
+y
+java:S6437"6Revoke and change this password, as it is compromised.(ŸÇàè8¡œã‹ş1J$8428998f-a9e4-41bb-aee6-ba4c83b45b92
+r	java:S106!"+Replace this use of System.out by a logger.(µâ£äşÿÿÿÿ8¥œã‹ş1J$4b1d1098-68bd-4fae-b32f-0da185130953
+m	java:S106/"+Replace this use of System.err by a logger.(Îã­Ã8¨œã‹ş1J$d02798d1-8859-4dad-9933-40611f814abc
+r	java:S1060"+Replace this use of System.err by a logger.(íŠÚçüÿÿÿÿ8©œã‹ş1J$11a613d4-8e88-4ed7-9c9c-c603d3718d71
+r	java:S1061"+Replace this use of System.err by a logger.(×ãìüÿÿÿÿ8«œã‹ş1J$aa259ca5-af30-4ace-900a-7671bf16ce52
+r	java:S1062"+Replace this use of System.err by a logger.(îöÁÑøÿÿÿÿ8«œã‹ş1J$044c9356-fb22-4dfc-87cb-3121832af8a1
+m	java:S1065"+Replace this use of System.out by a logger.(†ÚÂà8¬œã‹ş1J$066c5eba-4713-42ec-a28f-a6616cf7a9a6

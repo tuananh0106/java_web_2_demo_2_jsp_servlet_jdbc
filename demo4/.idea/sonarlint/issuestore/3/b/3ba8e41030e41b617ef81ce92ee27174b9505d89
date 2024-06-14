@@ -1,0 +1,9 @@
+
+Web:DoctypePresenceCheck":Insert a <!DOCTYPE> declaration to before this <html> tag.(œ÷Ãûÿÿÿÿ8Š­ö2J$f034163a-ed45-4b8b-b259-4c3b97b4f5ae
+‡	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(œ÷Ãûÿÿÿÿ8‹­ö2J$00102cca-20ad-4863-95b4-ec0e6fd95e05
+€Web:UnsupportedTagsInHtml5Check	"(Remove this deprecated "center" element.(¡á€Ò8Œ­ö2J$6b67c896-c228-4b70-a141-3ae5f2521470
+k	Web:S1827")Remove this deprecated "align" attribute.(òå„ë8Œ­ö2J$c16c8efb-6e21-41dc-ba4d-0b3df8f0ed2f
+q	Web:S1827"/Remove this deprecated "cellpadding" attribute.(˜ĞÕË8Œ­ö2J$14203e58-4b57-4bd1-bd4c-54f41cd25a7a
+p	Web:S18274")Remove this deprecated "align" attribute.(»¡å¬ıÿÿÿÿ8Œ­ö2J$2f61b628-c631-4ba8-9db2-09fe5653f562
+” Web:TableHeaderHasIdOrScopeCheck(";Add either an 'id' or a 'scope' attribute to this <th> tag.(¾İ©8­ö2J$a7c6d213-a0f9-4116-bea3-e877b3cdfaf6
+” Web:TableHeaderHasIdOrScopeCheck.";Add either an 'id' or a 'scope' attribute to this <th> tag.(”ş½‘8­ö2J$ca9e93c5-155e-4782-85ee-6077dc8c4fe0

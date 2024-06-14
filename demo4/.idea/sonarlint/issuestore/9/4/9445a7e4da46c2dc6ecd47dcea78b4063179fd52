@@ -1,0 +1,28 @@
+
+“
+java:S1301%"KReplace this "switch" statement by "if" statements to increase readability.(ë´åİşÿÿÿÿ8Ñ‰2J$a5dc819c-a9dc-4bee-bf7b-5f4199228005
+}
+java:S1161":Add the "@Override" annotation above this method signature( Üó8í•2J$f51df9dc-57ee-449b-b123-20d6e871c913
+‚
+java:S1161":Add the "@Override" annotation above this method signature(ş³‚”ûÿÿÿÿ8‘Â2J$94e2a2d5-3854-4887-94b3-76cfbbe336e9
+¹
+java:S1989"qHandle the following exceptions that could be thrown by "doGet": ServletException, IOException, RuntimeException.(®Ó‘ûÿÿÿÿÿ8Ÿ‘Â2J$9cdb2d08-6433-4039-b9d6-0a9503ec7ec4
+}
+java:S1161":Add the "@Override" annotation above this method signature(÷¤‹ú8Ÿí•2J$f7b6cbb3-0b6f-4664-a80e-5d50d05ac1ad
+r	java:S106""+Replace this use of System.out by a logger.(ïƒàëøÿÿÿÿ8¡í•2J$09313947-2961-457a-818b-9bbaae02fff4
+i	java:S131%""Add a default case to this switch.(ë´åİşÿÿÿÿ8Ü‰2J$94072422-6d98-4f3f-aa08-8e692c60d6a4
+¨
+java:S1989'"eHandle the following exceptions that could be thrown by "showNewForm": IOException, ServletException.(ßçÂ›8¡í•2J$5d1e0608-f631-41a8-8a58-2877af45a63a
+”
+java:S1989*"QHandle the following exception that could be thrown by "insertUser": IOException.(Ì¼¬Ø8¢í•2J$3a808b51-8309-4c51-8393-aeb913f28dd5
+ƒ	java:S125-"<This block of commented-out lines of code should be removed.(İ¬™Äüÿÿÿÿ8Ş‰2J$42ecc04e-d29b-4209-ad60-b3de86790675
+‰
+java:S1989:"AHandle the "ServletException" thrown here in a "try/catch" block.(½óæ„úÿÿÿÿ8¢í•2J$9f96e21e-6021-45cc-8f9e-213ee9e47edb
+±
+java:S1130J"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(ñÊŞ„8¥í•2J$a0dd89a6-a708-41e9-8c35-ae25e1d6d115
+€
+java:S1128">Remove this unused import 'com.example.demo4.dao.EmployeeDao'.(Œ¬r8ÌÏ®2J$45e7c524-bada-4cd6-8294-c4f5df5c3910
+€
+java:S1128"=Remove this unused import 'com.example.demo4.model.Employee'.(‚ûÃÉ8ÌÏ®2J$4ca52afe-0b1c-48c5-a51c-97de78323d8b
+s
+java:S1128"0Remove this unused import 'java.io.PrintWriter'.(ÓŞÏÛ8ÌÏ®2J$801a28ec-ddf0-4e90-96af-52ac99ab5a6d

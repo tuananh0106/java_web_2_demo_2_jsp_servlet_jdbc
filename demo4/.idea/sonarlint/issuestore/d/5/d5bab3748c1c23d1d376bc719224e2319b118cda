@@ -1,0 +1,14 @@
+
+‰Web:DoctypePresenceCheck":Insert a <!DOCTYPE> declaration to before this <html> tag.(œ÷ÃûÿÿÿÿJ$af22bcdd-2346-414f-9a39-e70f17ee5139
+€	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(œ÷ÃûÿÿÿÿJ$34e35561-459b-4660-8f20-cc5adbc90bb3
+yWeb:UnsupportedTagsInHtml5Check	"(Remove this deprecated "center" element.(¡á€ÒJ$4e44c094-ae73-4506-b7d0-d22473c84ba8
+d	Web:S1827")Remove this deprecated "align" attribute.(òå„ëJ$5568aacb-7f76-47a8-951b-343404bdc972
+j	Web:S1827"/Remove this deprecated "cellpadding" attribute.(˜ĞÕËJ$baa783c3-8a67-441e-a7ef-72958b224a6e
+y	Web:S6825%"9aria-hidden="true" must not be set on focusable elements.(¶ÉêøüÿÿÿÿJ$6e6c8cce-600d-49c2-8f8b-4e94d90b9b87
+i	Web:S1827X")Remove this deprecated "align" attribute.(»¡å¬ıÿÿÿÿJ$5a31902c-00e1-4916-b87e-b34c1a0f0ac7
+ Web:TableHeaderHasIdOrScopeCheck(";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ï÷øñJ$79e8a6a5-cd76-481e-b80b-0e8013d1a5d5
+ Web:TableHeaderHasIdOrScopeCheck0";Add either an 'id' or a 'scope' attribute to this <th> tag.(Êµ›ÆJ$2a6014a1-4759-4b23-8680-f69741060449
+ Web:TableHeaderHasIdOrScopeCheck8";Add either an 'id' or a 'scope' attribute to this <th> tag.(¾İ©J$73d38be3-2bcd-41fb-8cc6-e775314565ea
+” Web:TableHeaderHasIdOrScopeCheck@";Add either an 'id' or a 'scope' attribute to this <th> tag.(”ş½‘8ûóëâÿ1J$8c997057-2e61-4051-90f4-c7ea50890808
+™ Web:TableHeaderHasIdOrScopeCheckH";Add either an 'id' or a 'scope' attribute to this <th> tag.(ŒŒîòÿÿÿÿÿ8ûóëâÿ1J$4c0ec5b9-ab67-4220-97e3-4d4c7fc54a9b
+” Web:TableHeaderHasIdOrScopeCheckP";Add either an 'id' or a 'scope' attribute to this <th> tag.(¾£½à8ûóëâÿ1J$96c682eb-7b81-455e-8149-cebe2bcb363f
